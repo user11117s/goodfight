@@ -1,0 +1,6 @@
+name: GoodFight
+version: '1.0-SNAPSHOT'
+main: com.array64.goodFight.GoodFight
+api-version: '1.21'
+authors: [ Array64 ]
+description: definitely not based on any 3v3 MOBA released by Supercell
